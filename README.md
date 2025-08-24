@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandumini Karunarathne</h1>
-<h3 align="center">IT Undergraduate from Sri Lanka</h3>
+<h3 align="center">IT Fresh graduate from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m interest with **Python**
 
 - 📫 How to reach me **imanthasandaumini1@gmail.com**
 
